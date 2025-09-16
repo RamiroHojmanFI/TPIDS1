@@ -58,6 +58,21 @@
   transition: 0.3s;
   cursor: pointer;
 }
+.btn_pdf {
+  padding: 0.75rem 1.5rem;
+  outline: none;
+  border: none;
+  font-size: 2.7rem;
+  white-space: nowrap;
+  color: #2887ff;
+  background-color: none;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.btn_pdf:hover {
+  color: #2476da;
+  
+}
 
 .btn:hover {
   background-color: var(--primary-color-dark);
